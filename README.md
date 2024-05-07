@@ -92,6 +92,9 @@ int main()
 
 ## OUTPUT
 
+
+
+
 ```
 Shared memort id = 32794 
 Memory Attached at 4bb22000
@@ -103,6 +106,12 @@ waiting for client.
 waiting for client.	
 Enter Some Text: end
 ```
+
+
+
+
+
+
 ![image](https://github.com/KAVIYADHARANI/Linux-IPC-Shared-memory/assets/144870680/ef4cb25b-b3be-4ff3-8d82-c179e8a07a85)
 
 
