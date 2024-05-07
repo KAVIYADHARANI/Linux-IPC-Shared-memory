@@ -103,8 +103,8 @@ waiting for client.
 waiting for client.	
 Enter Some Text: end
 ```
+![image](https://github.com/KAVIYADHARANI/Linux-IPC-Shared-memory/assets/144870680/ef4cb25b-b3be-4ff3-8d82-c179e8a07a85)
 
-![image](https://github.com/KAVIYADHARANI/Linux-IPC-Shared-memory/assets/144870680/bf0dd9ac-da74-4804-b369-9b9ac47669db)
 
 # RESULT:
 The program is executed successfully.
